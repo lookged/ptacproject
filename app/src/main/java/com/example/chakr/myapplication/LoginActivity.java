@@ -52,6 +52,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onResume();
         Log.d(TAG, "onResume");
         Log.d(TAG, "onResume haha");
+        Log.d(TAG, "onResume haha2");
     }
 
     @Override
